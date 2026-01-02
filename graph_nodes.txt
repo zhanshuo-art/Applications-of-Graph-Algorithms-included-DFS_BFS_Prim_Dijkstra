@@ -1,0 +1,709 @@
+节点0 ID:8 标题:Algorithm 27: Assignment
+节点1 ID:29 标题:Recognition of sloppy, hand-printed characters
+节点2 ID:94 标题:A pattern recognition program that generates, evaluates, and adjusts its own operators
+节点3 ID:111 标题:Abrechnungstableau als Hilfsalgorithmus
+节点4 ID:130 标题:On a Property of Optimal Controllers With Boundedness Constraints
+节点5 ID:135 标题:Optimal control of continuous time, markov, stochastic systems
+节点6 ID:150 标题:Pattern Recognition Using Autocorrelation
+节点7 ID:151 标题:Abstract shape recognition by machine
+节点8 ID:191 标题:Learning Filters for Optimum Pattern Recognition
+节点9 ID:216 标题:Computer pattern recognition techniques: Electrocardiographic diagnosis
+节点10 ID:223 标题:Pattern Recognition by an Adaptive Process of Sample set Construction
+节点11 ID:226 标题:Learning to Recognize Patterns in a Random Environment
+节点12 ID:243 标题:An Example of the Application of Dynamic Programming to the Design of Optimal Control Programs
+节点13 ID:246 标题:A common language for hardware, software, and applications
+节点14 ID:250 标题:Linear Decision Functions, with Application to Pattern Recognition
+节点15 ID:256 标题:An Approach to General Pattern Recognition
+节点16 ID:258 标题:Control Section: Optimal, probing, adaptive control of a simple bayesian system†
+节点17 ID:292 标题:Control section: Partial observability and optimal control†
+节点18 ID:300 标题:The Design and Analysis of Pattern Recognition Experiments
+节点19 ID:325 标题:On the equivalence of discrete systems in time-optimal control
+节点20 ID:332 标题:A Pattern Recognition Function of Integral Geometry
+节点21 ID:388 标题:Hybrid computer solution of time-optimal control problems
+节点22 ID:391 标题:An Experimental Investigation of a Class of Pattern Recognition Synthesis Algorithms
+节点23 ID:398 标题:Experiments in Adaptive Pattern Recognition
+节点24 ID:404 标题:Pattern Recognition as a Problem in Decision Theory and an Application to Speech Recognition
+节点25 ID:442 标题:A pattern recognition approach to fault isolation
+节点26 ID:468 标题:Papa no. 3
+节点27 ID:475 标题:An on line solution to sampled-data time optimal control
+节点28 ID:540 标题:On an Inverse Problem in Optimal Control
+节点29 ID:541 标题:A Suboptimal On-Line Discrete Controller with Bounded Control Variables
+节点30 ID:543 标题:Labeling schemata and syntactic descriptions of pictures
+节点31 ID:544 标题:Optimal Control of Linear Plants with Random Parameters
+节点32 ID:559 标题:Comparison of human and computer electrocardiographic wave-form classification and identification
+节点33 ID:570 标题:Discovery and learning techniques for pattern recognition
+节点34 ID:590 标题:Optimal-Control Theory Applied to a Probabilistic Intercept Problem
+节点35 ID:607 标题:Two New Classes of Algorithms for Finding the Eigenvalues and Eigenvectors of Real Symmetric Matrices
+节点36 ID:637 标题:On the Use of Optimization Theory for Practical Control System Design
+节点37 ID:642 标题:An approach to the design of nonlinear discrete self-optimizing systems
+节点38 ID:649 标题:An example of optimal adaptive control†
+节点39 ID:664 标题:Optimal Control with Quadratic Performance Index and Fixed Terminal Time
+节点40 ID:718 标题:Optimal bounded control of linear sampled-data systems with quadratic loss
+节点41 ID:725 标题:Investigation of optimal control with a minimum-fuel consumption criterion for a fourth-order plant with two control inputs; synthesis of an efficient suboptimal control
+节点42 ID:742 标题:Calcolo di deformazione per la lettura automatica di manoscritti
+节点43 ID:749 标题:Adaptive Representations for Pattern Recognition
+节点44 ID:778 标题:Reserve-control approach to an optimal time control problem
+节点45 ID:781 标题:Compensation of Plant Variations in Optimal Control Systems
+节点46 ID:785 标题:On the formulation of adaptive optimal control problems
+节点47 ID:787 标题:Optimal control of partially observable Markovian systems
+节点48 ID:808 标题:An Algorithm for Linear Inequalities and its Applications
+节点49 ID:848 标题:Control of a Linear System with a Markov Property
+节点50 ID:892 标题:Machine recognition of hand printing
+节点51 ID:898 标题:Reliability and fault-masking in n-variable NOR trees
+节点52 ID:902 标题:Optimal control of systems with random gain of plant
+节点53 ID:912 标题:Optimal Helicopter Station Keeping
+节点54 ID:925 标题:The number of paths and cycles in a digraph
+节点55 ID:938 标题:Nonsupervised Sequential Classification and Recognition of Patterns
+节点56 ID:953 标题:Stochastic optimal control with noisy observations
+节点57 ID:958 标题:Introduction to the Theory of Optimal Adaptive Control Systems
+节点58 ID:960 标题:An approximation technique for the optimal control of linear distributed parameter systems with bounded inputs
+节点59 ID:970 标题:The Optimal Control of Linear Systems with Unknown Parameters
+节点60 ID:980 标题:A Numerical Trajectory Optimization Method Suitable for a Computer of Limited Memory
+节点61 ID:981 标题:Pattern Recognition by Using an Associative Memory
+节点62 ID:986 标题:Proof of algorithms by general snapshots
+节点63 ID:987 标题:Some Results on Multicategory Pattern Recognition
+节点64 ID:988 标题:Closed loop optimization of fixed configuration systems
+节点65 ID:989 标题:Optimal boundary control for a non-linear distributed system
+节点66 ID:990 标题:A priori open loop optimal control of continuous time stochastic systems
+节点67 ID:1000 标题:A note on sequential decision approach to pattern recognition and machine learning
+节点68 ID:1022 标题:PROPERTY LEARNING IN PATTERN RECOGNITION SYSTEMS USING INFORMATION CONTENT MEASUREMENTS
+节点69 ID:1042 标题:Optimization of linear stochastic control systems operating over a finite time interval
+节点70 ID:1053 标题:Evolutionary Pattern Recognition in Incomplete Nonlinear Multithreshold Networks
+节点71 ID:1066 标题:Solution of optimal control problems on a high-speed hybrid computer
+节点72 ID:1084 标题:Time Optimal Digital Computer Control of Nuclear Reactor, (II)
+节点73 ID:1097 标题:Sub-optimal time-variable feedback control of linear dynamic systems with random inputs
+节点74 ID:1113 标题:Construction of recognition devices for regular languages from their Backus Normal Form definition
+节点75 ID:1153 标题:Pattern Recognition with Three Added Requirements
+节点76 ID:1175 标题:Pattern recognition preprocessing by similarity functionals
+节点77 ID:1179 标题:An approach to structure adaptation in pattern recognition
+节点78 ID:1182 标题:Time Optimal Digital Computer Control of Nuclear Reactor, (II)
+节点79 ID:1183 标题:Time Optimal Digital Computer Control of Nuclear Reactors, (I)
+节点80 ID:1208 标题:Two Viewpoints of k-Tuple Pattern Recognition
+节点81 ID:1213 标题:Interpolation and Extrapolation Schemes in Dynamic Programming
+节点82 ID:1221 标题:An Optimum Finite Sequential Procedure for Feature Selection and Pattern Classification
+节点83 ID:1272 标题:Optimal Control of Systems with Pure Time Delays Using a Variational Programming Approach
+节点84 ID:1290 标题:Optimal Control of Measurement Subsystems
+节点85 ID:1308 标题:STUDY OF A GLOBAL SEARCH ALGORITHM FOR OPTIMAL CONTROL
+节点86 ID:1347 标题:Identification of Symmetry, Redundancy and Equivalence of Boolean Functions
+节点87 ID:1362 标题:An Approximation to Bounded Phase Coordinate Control Problem for Linear Discrete Systems
+节点88 ID:1368 标题:Optimal Linear Regulators with Incomplete State Feedback
+节点89 ID:1371 标题:Optimal control of linear stochastic systems
+节点90 ID:1417 标题:On the Self-Learning Scheme of Nagy and Shelton
+节点91 ID:1419 标题:Final value optimal stochastic control problem with bounded controller
+节点92 ID:1427 标题:Automated Learning Applied to Fault Diagnosis
+节点93 ID:1457 标题:Learning to Recognize Patterns Without a Teacher
+节点94 ID:1479 标题:A Learning Technique for Volterra Series Representation
+节点95 ID:1485 标题:Hybrid Computer Solution of Optimal Control Problems by the Maximum Principle
+节点96 ID:1500 标题:Feed-Forward Threshold Logic Nets for Digital Switching and Pattern Recognition
+节点97 ID:1518 标题:A Threshold Logic Network for Shape Invariance
+节点98 ID:1524 标题:A Game Theoretic Approach to Optimal Control in the Presence of Uncertainty
+节点99 ID:1526 标题:An efficient machine-independent procedure for garbage collection in various list structures
+节点100 ID:1538 标题:Optimum Terminal Control of Continuous Systems via Successive Approximation to the Reachable Set
+节点101 ID:1551 标题:Optimization of Reduced Dependencies for Synchronous Sequential Machines
+节点102 ID:1556 标题:Dual control strategies for discrete state markov processes part I
+节点103 ID:1582 标题:Optimal Control Computation by the Newton-Raphson Method and the Riccati Transformation
+节点104 ID:1585 标题:The inversion of sparse matrices by a strategy derived from their graphs
+节点105 ID:1602 标题:Optimal control and filtering of linear stochastic systems
+节点106 ID:1603 标题:Feedback Control Which Preserves Optimality for Systems with Unknown Parameters
+节点107 ID:1604 标题:Pattern Recognition, Functional, and Entropy
+节点108 ID:1626 标题:A pattern recognition machine
+节点109 ID:1628 标题:A Feature-Detection Program for Patterns with Overlapping Cells
+节点110 ID:1649 标题:APPLICATION OF DYNAMIC PROGRAMMING AND METHOD OF UNDETERMINED LAGRANGE MULTIPLIERS TO MULTISTAGE OPTIMAL CONTROL PROBLEMS, | [ZASTOSOWANIE PROGRAMOWANIA DYNAMICZNEGO I NIEOZNACZONYCH MNOZNIKOW LAGRANGE'A DO WIELOETAPOWYCH ZADSTWAIAOPTMA-NG]
+节点111 ID:1732 标题:Selection and ordering of feature observations in a pattern recognition system
+节点112 ID:1739 标题:Chapter 1: Introduction
+节点113 ID:1751 标题:A Visual Image Processor
+节点114 ID:1766 标题:State of the Art in Pattern Recognition
+节点115 ID:1802 标题:APPROXIMATE METHOD OF OPTIMAL CONTROL OF NONLINEAR DYNAMICAL SYSTEMS WITH STATE-DEPENDENT NOISE
+节点116 ID:1811 标题:AUTOMATIC FEATURES EXTRACTION IN PATTERN RECOGNITION
+节点117 ID:1824 标题:Optimal Control of the Linear Regulator with Constant Disturbances
+节点118 ID:1843 标题:New second-order and first-order algorithms for determining optimal control: A differential dynamic programming approach
+节点119 ID:1844 标题:An Adaptive Procedure for Multiclass Pattern Classification
+节点120 ID:1848 标题:Time-Optimal Control of a Bounded Phase-Coordinate Process II: High-Order Systems with Multiple Control Inputs
+节点121 ID:1852 标题:Variance algorithm for minimization
+节点122 ID:1860 标题:A recursive Bayesian approach to pattern recognition
+节点123 ID:1874 标题:APPLICATION OF OPTIMAL CONTROL TO '%'PERFECT'%' MODEL FOLLOWING
+节点124 ID:1895 标题:A Universal Syntax-Directed Top-Down Analyzer
+节点125 ID:1907 标题:ON THE APPLICATIONS OF PATTERN RECOGNITION TO GEOPHYSICAL AND GEOLOGICAL PROBLEMS
+节点126 ID:1915 标题:SOME CONSIDERATIONS ON TYPE OF PATTERN RECOGNITION USING NONSUPERVISED LEARNING FEATURE
+节点127 ID:1931 标题:FEEDBACK CONTROL WHICH PRESERVES OPTIMALITY FOR SYSTEMS WITH UNKNOWN PARAMETERS
+节点128 ID:1936 标题:OPTIMAL CONTROL OF CLASS OF PARTIALLY CONTROLLED SYSTEMS
+节点129 ID:1938 标题:ON THE SELECTION OF FEATURES IN STATISTICAL PATTERN RECOGNITION
+节点130 ID:1939 标题:MAXIMUM PRINCIPLE FOR DISCRETE SYSTEMS WITH CONTROL VARIABLE INEQUALITY CONSTRAINTS
+节点131 ID:1941 标题:ON FEATURE SELECTION IN PATTERN RECOGNITION
+节点132 ID:1945 标题:ON FEATURE IN MULTICLASS PATTERN RECOGNITION
+节点133 ID:1948 标题:APPLICATION OF OPTIMAL CONTROL TO SOME HIGH SPEED GROUND TRANSPORT PROBLEMS
+节点134 ID:1949 标题:ON THE DESIGN OF OPTIMAL LINEAR SYSTEMS USING ONLY OUTPUT-VARIABLE FEEDBACK
+节点135 ID:1960 标题:Stochastic Optimal Control of Continuous Time Systems with Unknown Gain
+节点136 ID:1974 标题:THE APPLICATION OF PATTERN RECOGNITION TECHNIQUES TO A REMOTE SENSING PROBLEM
+节点137 ID:1995 标题:SURVEY OF PATTERN RECOGNITION
+节点138 ID:2013 标题:Analysis of set patterns
+节点139 ID:2026 标题:Least-square methods in abstract pattern recognition
+节点140 ID:2040 标题:APPLICATION OF PATTERN RECOGNITION FOR SOCIAL SYSTEMS SIMULATION
+节点141 ID:2041 标题:Convergent Algorithms for Pattern Recognition in Nonlinearly Evolving Nonstationary Environment
+节点142 ID:2048 标题:Pattern Recognition from Satellite Altitudes
+节点143 ID:2074 标题:Un metodo per la determinazione di un albero con lati pre-assegnati o meno in un grafo non-orientato descritto mediante la matrice di adiacenza
+节点144 ID:2092 标题:Selected pattern recognition projects in Europe
+节点145 ID:2109 标题:Feature extraction in pattern recognition
+节点146 ID:2110 标题:A method for approximating dynamical processes by finite-state systems
+节点147 ID:2113 标题:On a Theoretical Pattern Recognition Model of Ho and Agrawala
+节点148 ID:2135 标题:ON RATE OF CONVERGENCE OF ITERATIVE ALGORITHM FOR COMPUTING OPTIMAL TERMINAL CONTROLS
+节点149 ID:2142 标题:SARF. A SIGNATURE ANALYSIS RESEARCH FACILITY BASED ON INTERACTIVE COMPUTER GRA%PHICS
+节点150 ID:2146 标题:DISCRETE SYSTEMS WITH DELAYS IN CONTROL
+节点151 ID:2150 标题:Classification Algorithms in Pattern Recognition
+节点152 ID:2152 标题:Optimal Control of Unstable Linear Plants with Inaccessible States
+节点153 ID:2176 标题:Second-order and second-variation methods for determining optimal control: A comparative study using differential dynamic programming
+节点154 ID:2185 标题:Distance functions on digital pictures
+节点155 ID:2199 标题:A Fast Algorithm for Computing the Response of a Linear System to a Large Number of Inputs
+节点156 ID:2227 标题:Computation of Optimal Control in Partially Controlled Linear Systems
+节点157 ID:2241 标题:A Method of Decision Making in Pattern Recognition
+节点158 ID:2292 标题:BOUND-AND SCAN ALGORITHM FOR PURE INTEGER LINEAR PROGRAMMING WITH GENERAL VARIABLES
+节点159 ID:2293 标题:Programming by action clusters
+节点160 ID:2297 标题:A transformation with invariance under cyclic permutation for applications in pattern recognition
+节点161 ID:2319 标题:An algorithm for finding a fundamental set of cycles of a graph
+节点162 ID:2339 标题:Optimal Control of a Servo Derived from Nonquadratic Performance Criteria
+节点163 ID:2360 标题:OPTIMAL CONTROL OF LINEAR SYSTEMS WITH RANDOM INITIAL CONDITIONS
+节点164 ID:2368 标题:ON PERMUTATION ALGORITHMS FOR REARRANGEABLE SWITCHING NETWORKS
+节点165 ID:2373 标题:Optimal Stationary Control of Linear Systems with Control-Dependent Noise
+节点166 ID:2374 标题:METHODOLOGIES OF PATTERN RECOGNITION. PROCEEDINGS OF THE INTERNATIONAL CONFERENCE, JAN 24-26 1968, UNIV OF HAWAII, HONOLULU
+节点167 ID:2392 标题:LEARNING OF PARAMETERS FOR GENERATING COMPOUND CHARACTERIZERS FOR PATTERN RECOGNITION
+节点168 ID:2418 标题:ADAPTIVE PATTERN RECOGNITION
+节点169 ID:2435 标题:PROPOSAL FOR SERIAL, ARCHETYPE-DIRECTED PATTERN RECOGNITION
+节点170 ID:2449 标题:Performance bounds for discrete-time stochastic optimal control problems
+节点171 ID:2459 标题:CONTROLLABLE SEMI-MARKOVIAN PROCESSES WITH FINITE NUMBERS OF STATES AND OF CONTROLS
+节点172 ID:2467 标题:Optimal Control of Linear Systems with Time-Delay and Observation Noise
+节点173 ID:2470 标题:Unified Intervals Classification and Unified 3-Classification for Associative Memories
+节点174 ID:2492 标题:Experiments with the N-Tuple Method of Pattern Recognition
+节点175 ID:2530 标题:NONORTHOGONAL PROJECTIONS FOR FEATURE EXTRACTION IN PATTERN RECOGNITION
+节点176 ID:2538 标题:Pattern Recognition of Multichannel Myoelectric Signals by Learning Method
+节点177 ID:2545 标题:Optimal control of linear distributed parameter systems with constrained inputs
+节点178 ID:2550 标题:On the Applicability of the Sweep Method to Optimal Control Problems
+节点179 ID:2555 标题:Optimal Linear Control Systems with Incomplete State Measurements
+节点180 ID:2557 标题:A computational approach to optimal control of stochastic saturating systems
+节点181 ID:2568 标题:Design of Multicategory Pattern Classifiers with Two-Category Classifier Design Procedures
+节点182 ID:2613 标题:Optimal control of distributed-parameter systems with integral equation constraints
+节点183 ID:2629 标题:Algorithm for the parallel realization of a program
+节点184 ID:2630 标题:An Algorithm for Approximately Diagonalizing a Matrix
+节点185 ID:2646 标题:On the linear optimal servo problem
+节点186 ID:2647 标题:TIME OPTIMAL CONTROL FOR CLASS OF COMMON RANDOM DISTURBANCES
+节点187 ID:2655 标题:MEASUREMENT SELECTION PROBLEM OF PATTERN RECOGNITION AS APPLIED TO MEDICAL DATA
+节点188 ID:2661 标题:Diffraction-pattern sampling for automatic pattern recognition
+节点189 ID:2671 标题:A teachable pattern describing and recognizing program
+节点190 ID:2705 标题:MACHINE DERIVATION OF ARITHMETIC IDENTITIES
+节点191 ID:2722 标题:CRITERION OF EXISTENCE OF AN OPTIMAL CONTROL FOR A CLASS OF LINEAR STOCHASTIC SYSTEMS
+节点192 ID:2776 标题:REALIZATION OF TIME-OPTIMAL SYNTHESIZING FUNCTIONS FOR CLASS OF LINEAR THIRD-ORDER SYSTEMS
+节点193 ID:2784 标题:SOME CONSIDERATIONS ON A TYPE OF PATTERN RECOGNITION USING A NONSUPERVISED LEARNING PROCEDURE
+节点194 ID:2785 标题:FILTERING OF NONSTATIONARY PROCESSES TAKING OBSERVATIONAL COSTS INTO ACCOUNT
+节点195 ID:2787 标题:OPTIMAL DISTRIBUTION OF RESOURCES IN PLANNING OF SETS OF OPERATIONS
+节点196 ID:2813 标题:APPROXIMATIONS IN PROBLEMS OF CONSTRUCTIONS OF FUNCTIONS AND OF PATTERN RECOGNITION
+节点197 ID:2840 标题:DECOMPOSITIONAL DYNAMIC OPTIMIZATION OF PRODUCTION WITH HIERARCHIAL CONTROL STRUCTURE. CONTROL OF GROUP OF STATIONARY SUBSYSTEMS
+节点198 ID:2855 标题:ALGORITHM ON CONTROL WHICH IS CLOSE TO OPTIMAL FOR N-TH ORDER SYSTEMS
+节点199 ID:2888 标题:ADAPTIVE DESIGN PROCEDURE FOR ENVIRONMENTS WHICH EVOLVE IN AN UNKNOWN FASHION
+节点200 ID:2903 标题:Pattern recognition and statistical mechanics
+节点201 ID:2953 标题:THE DETERMINATION OF OPTIMAL CONTROL SEQUENCES FOR LINEAR DIGITALLY- CONTROLLED CONTINUOUS SYSTEMS USING A SUM-OF- ABSOLUTE- ERROR INDEX
+节点202 ID:2979 标题:An Algorithm for Minimum Energy Control
+节点203 ID:2981 标题:THE PROBLEM OF OPTIMAL CONTROL FOR THE DESCENT OF A SPACE VEHICLE IN THE ATMOSPHERE
+节点204 ID:2995 标题:EXPERIMENTS WITH A FAST ALGORITHM FOR AUTOMATIC CLASSIFICATION
+节点205 ID:3025 标题:Optimization of a time-variable, constrained control matrix
+节点206 ID:3030 标题:ON THE DETERMINATION OF THE OPTIMAL CONSTANT OUTPUT-FEEDBACK GAINS FOR LINEAR MULTIVARIABLE SYSTEMS
+节点207 ID:3041 标题:GESTALT PATTERN RECOGNITION WITH ARRAYS OF PREDETERMINED NEURAL FUNCTIONS
+节点208 ID:3060 标题:SYNTHESIS OF TIME-OPTIMAL CONTROL OF TURBINE- GENERATOR OUTPUT, | [SYNTEZA UKLADU STEROWANIA CZASOWO OPTYMALNEGO MOCY TURBOZESPOLU]
+节点209 ID:3066 标题:PATTERN RECONGITION APPROACH TO MEDICAL DIAGNOSIS
+节点210 ID:3071 标题:ALGORITHM FOR THE GENERAL ANALYTICAL SOLUTION
+节点211 ID:3076 标题:Method for location of clusters of patterns to initialise a learning machine
+节点212 ID:3080 标题:ENGINEERING PRINCIPLES OF PATTERN RECOGNITION
+节点213 ID:3089 标题:An Evaluation of a Pilot Model Based on Kaiman Filtering and Optimal Control
+节点214 ID:3110 标题:ADAPTATION OF THE CASCADE ALGORITHM
+节点215 ID:3120 标题:An optimal extremal control system
+节点216 ID:3129 标题:Pattern recognition techniques applied to diagnostics
+节点217 ID:3136 标题:An algorithm of descent with constraints
+节点218 ID:3178 标题:Synthesis of adaptive sub-optimal feedback control lawsj
+节点219 ID:3185 标题:Discrete stochastic optimal control model of the human operator
+节点220 ID:3187 标题:Hybrid computation of the optimal control for an entry vehicle with three degrees of freedom
+节点221 ID:3192 标题:Pattern learning in humans and electronic learning nets
+节点222 ID:3193 标题:Microcircuit learning nets: Hamming-distance behaviour
+节点223 ID:3202 标题:Application of Optimal Control Theory to Satellite‐Based Oceanic Air Traffic Control
+节点224 ID:3215 标题:Optimal control of systems with known distribution functions of parameters
+节点225 ID:3226 标题:Time-Optimal Control of Sampled-Data Systems
+节点226 ID:3263 标题:Towards a generalized template hatching algorithm for pictorial pattern recognition
+节点227 ID:3283 标题:PATTERN RECOGNITION SYSTEM USING A SEQUENTIAL FEATURE DECISION MECHANISM
+节点228 ID:3285 标题:Statistical pattern recognition
+节点229 ID:3289 标题:Feature Selection in Pattern Recognition
+节点230 ID:3291 标题:NASAP-ADAPTABLE ALGORITHM FOR FINDING HIGHER ORDER LOOPS OF A FLOWGRAPH
+节点231 ID:3302 标题:Optimal decision and control policies in the national economy
+节点232 ID:3305 标题:Control of large decentralized dynamic systems
+节点233 ID:3310 标题:Application of the Karhunen-Loéve Expansion to Feature Selection and Ordering
+节点234 ID:3323 标题:Specific optimal control of the linear regulator using a dynamical controller based on the minimal-order luenberger observer
+节点235 ID:3329 标题:Variable length vector pattern recognition
+节点236 ID:3336 标题:On Integral plus proportional compensation
+节点237 ID:3365 标题:L<sup>p</sup> - Convergence of an optimal adaptive control algorithm
+节点238 ID:3370 标题:Adaptive stochastic control for linear systems part I: Solution method
+节点239 ID:3378 标题:On the feasibility of applying pattern recognition concepts for an aircraft approach procress monitor
+节点240 ID:3388 标题:Ein Verfahren zum Minimieren einer Funktion bei eingeschränktem Variationsbereich der Parameter
+节点241 ID:3413 标题:An Efficient Search Algorithm to Find the Elementary Circuits of a Graph
+节点242 ID:3414 标题:Ein adaptives und lernfähiges System für diskrete stochastische Prozesse. I - Entscheidung der optimalen Eingabezeichen
+节点243 ID:3417 标题:Samplesort: A Sampling Approach to Minimal Storage Tree Sorting
+节点244 ID:3425 标题:Solution of the Optimal Linear Regulator Problem from the Stability Viewpoint
+节点245 ID:3430 标题:Suboptimal Linear Regulators with Incomplete State Feedback
+节点246 ID:3449 标题:Algorithm for adaptive, optimal control of one- dimensional segments with searching of the order, (Algorithmus zur adaptiven optimalen Steuerung ein dimensionaler Strecken mit Suche der Ordnung)
+节点247 ID:3455 标题:NEW DECOMPOSITION PROCEDURE FOR DYNAMIC PROGRAMMING
+节点248 ID:3463 标题:TIME-OPTIMAL CONTROL SYNTHESIS PROBLEM
+节点249 ID:3474 标题:SOME OPTIMAL CONTROL RESULTS FOR DIFFERENTIAL-DIFFERENCE SYSTEMS
+节点250 ID:3488 标题:Information input in an optical pattern recognition system using a relay tube based on the pockels effect
+节点251 ID:3494 标题:A method for the optimal design of a class of pattern recognition systems
+节点252 ID:3500 标题:A nonparametric approach to pattern recognition
+节点253 ID:3505 标题:Discrete-time control using the quadratic performance index, implicit model following and the specific optimal policy
+节点254 ID:3508 标题:PATTERN RECOGNITION TECHNIQUES APPLIED TO DIAGNOSTICS
+节点255 ID:3518 标题:A coding approach to pattern recognition
+节点256 ID:3535 标题:SUB OPTIMAL SOLUTIONS FOR TIME OPTIMAL CONTROL OF A HYDRAULIC SERVOMECHANISM
+节点257 ID:3539 标题:Learning in potential-function classifier
+节点258 ID:3541 标题:Parallel counting of binary patterns
+节点259 ID:3554 标题:On the applicability of modern algebra techniques to adaptive pattern recognition
+节点260 ID:3571 标题:Synthesis of an optimal control system
+节点261 ID:3598 标题:NONGRADIENT AND PARALLEL ALGORITHM FOR UNCONSTRAINED MINIMIZATION
+节点262 ID:3613 标题:Nonorthogonal Projections for Feature Extraction in Pattern Recognition
+节点263 ID:3615 标题:An optimal control model of human response part II: Prediction of human performance in a complex task
+节点264 ID:3617 标题:An optimal control model of human response part I: Theory and validation
+节点265 ID:3618 标题:Dimensional properties of optimal and sub-optimal nonlinear control systems
+节点266 ID:3620 标题:Simultaneous solution of system dynamic equations and control-function optimisation using the conjugate-gradient algorithm
+节点267 ID:3621 标题:Performance of a practical digital system for the learning of signal waveforms
+节点268 ID:3623 标题:APPROXIMATELY OPTIMAL CONTROL WITH CLEARLY DEFINED DELAY DURING RANDOM DISTURBANCES
+节点269 ID:3634 标题:A simplified algorithm for suboptimal non-linear state estimation
+节点270 ID:3652 标题:Pattern recognition by sequential sweeping along preferred directions
+节点271 ID:3663 标题:The informon: A network for adaptive pattern recognition
+节点272 ID:3670 标题:LOWER ORDER AGGREGATED MODEL AND SUBOPTIMAL CONTROL
+节点273 ID:3674 标题:CONSTRAINED OPTIMAL CONTROL OF NONLINEAR SYSTEMS
+节点274 ID:3681 标题:TWO-LEVEL COMPUTING SYSTEM FOR THE SOLUTION OF COMPLEX OPTIMAL CONTROL PROBLEMS
+节点275 ID:3694 标题:Application of optimal control to perfect model following
+节点276 ID:3716 标题:Application of State-Variable Techniques to Optimal Feature Extraction-Multichannel Analog Data
+节点277 ID:3720 标题:A Modified Figure of Merit for Feature Selection in Pattern Recognition
+节点278 ID:3732 标题:On the Feasibility of Voice Input to an On-line Computer Processing System
+节点279 ID:3737 标题:The Application of Specific Optimal Control to the Design of Desensitized Model Following Control Systems
+节点280 ID:3752 标题:DIGITAL CONTROL ALGORITHM FOR SLOW SAMPLING RATES
+节点281 ID:3756 标题:HEURISTIC ALGORITHM FOR THE N JOB, M MACHINE SEQUENCING PROBLEM
+节点282 ID:3763 标题:PATTERN RECOGNITION WITH ORTHONORMAL SERIES EXPANSIONS, | [MUSTERERKENNUNG MIT ORTHONORMALEN REIHENENTWICKLUNGEN]
+节点283 ID:3781 标题:ALGORITHM FOR FINDING SHORTEST ROUTES FROM ALL SOURCE NODES TO A GIVEN DESTINATION IN GENERAL NETWORKS
+节点284 ID:3805 标题:STATISTICAL SYNTHESIS OF LOGICAL CIRCUITS FOR PATTERN RECOGNITION
+节点285 ID:3821 标题:Diffraction-Pattern Sampling for Automatic Pattern Recognition
+节点286 ID:3822 标题:TIME-OPTIMAL CONTROL OF A LINEAR DISTRIBUTED PARAMETER SYSTEM
+节点287 ID:3846 标题:Connectivity in Digital Pictures
+节点288 ID:3849 标题:An Algorithm for Convex Polytopes
+节点289 ID:3852 标题:A Unified Approach to Pattern Analysis
+节点290 ID:3861 标题:An Algorithm for Detecting Unimodal Fuzzy Sets and its Application as a Clustering Technique
+节点291 ID:3876 标题:Elements of pattern recognition
+节点292 ID:3912 标题:On a Deterministic Theory of Estimation and Control
+节点293 ID:3914 标题:Optimal digital computer control of nuclear reactorst
+节点294 ID:3918 标题:On the Determination of the Optimal Constant Output Feedback Gains for Linear Multivariable Systems
+节点295 ID:3928 标题:Applications of pattern recognition technology
+节点296 ID:3930 标题:MARKOVIAN RESET PROBLEM
+节点297 ID:3941 标题:Optimal control of nonlinear discrete time systems by mathematical programming
+节点298 ID:3942 标题:OPTIMAL DYNAMIC CONTROL AND CONTROL BY TRAINING IN INDUSTRIAL PROCESSES, | [COMMANDE DYNAMIQUE OPTIMALE ET COMMANDE PAR APPRENTISSAGE DE PROCEDES INDUSTRIELS]
+节点299 ID:3951 标题:Solution of Linear Inequalities
+节点300 ID:3966 标题:A Criterion and an Algorithm for Grouping Data
+节点301 ID:3974 标题:Direct Method Approximation to the State Regulator Control Problem Using a Ritz—Trefftz Suboptimal Control
+节点302 ID:3976 标题:Algorithms for the determination of the multiplicity of solutions for job- scheduling problems of the type of school class programs, (Algorithmen zur Bestimmung der Loesungsmannigfaltigkeit bei Job- Shop- Scheduling- Problemen vom Typ der Schulstundenzuteilung)
+节点303 ID:3979 标题:Self-Optimizing, Self-Learning System in Pictorial Pattern Recognition
+节点304 ID:4010 标题:Sequential Structure and Parameter-Adaptive Pattern Recognition—Part I: Supervised Learning
+节点305 ID:4027 标题:Switching Strategy for Optimal Adaptive Third Order Control Systems
+节点306 ID:4049 标题:APPLICATION OF SPECIFIC OPTIMAL CONTROL TO THE DESIGN OF DESENSITIZED MODEL FOLLOWING CONTROL SYSTEMS
+节点307 ID:4052 标题:SINGULAR OPTIMAL CONTROL OF DISCRETE-TIME SYSTEMS
+节点308 ID:4057 标题:STATIC OPTIMIZATION OF MULTICOUPLED SYSTEMS OF LARGE DIMENSIONALITY- 1, 2, 3
+节点309 ID:4061 标题:OPTIMAL CONTROL OF PROCESSES CONTAINING PURE TIME DELAYS
+节点310 ID:4069 标题:LINEAR OPTIMAL CONTROL OF A LINEAR SYSTEM WITH STATE-AND CONTROL- DEPENDENT NOISE
+节点311 ID:4074 标题:OPTIMAL STOCHASTIC CONTROL PROBLEM WITH OBSERVATION COST
+节点312 ID:4078 标题:OPTIMAL LINEAR FILTER AND ITS RELATION TO SINGULAR OPTIMAL CONTROL
+节点313 ID:4079 标题:APPROXIMATE OPTIMAL CLOSED LOOP CONTROL OF NONLINEAR SYSTEMS VIS PARAMETER SEARCH
+节点314 ID:4097 标题:IMPROVED ALGORITHM FOR LEARNING SYSTEMS
+节点315 ID:4105 标题:DISCRETE STOCHASTIC OPTIMAL CONTROL MODEL OF THE HUMAN OPERATOR
+节点316 ID:4117 标题:New approach to variable metric algorithms
+节点317 ID:4118 标题:MULTILEVEL CONTROL SYSTEMS
+节点318 ID:4119 标题:Stopping conditions for iterative control-function optimisation
+节点319 ID:4147 标题:OPTIMAL CONTROL OF THE LINEAR REGULATOR SUBJECT TO DISTURBANCES
+节点320 ID:4151 标题:Optimal control of linear multivariable systems with quadratic performance criteria
+节点321 ID:4162 标题:The Sum-Line Extrapolative Algorithm and Its Application to Statistical Classification Problems
+节点322 ID:4166 标题:Pattern Recognition Approach to Medical Diagnosis
+节点323 ID:4179 标题:Stochastic optimal control for non-linear dynamical systems under noisy observations
+节点324 ID:4184 标题:Application of the Hadamard transform in pattern recognition and image processing
+节点325 ID:4197 标题:Optimal algorithms for parallel polynomial evaluation
+节点326 ID:4202 标题:A Pattern Classification Technique for Speech Recognition
+节点327 ID:4215 标题:Natural pattern clustering in digital learning nets
+节点328 ID:4218 标题:Optimal Inner-Product Angular Momentum Controllers
+节点329 ID:4247 标题:Pattern recognition. Pattern recognition system and some applicable techniques- 1, (Patroonherkenning. Het patroonherkennend systeem en enkele hierin toepasbare technieken)
+节点330 ID:4251 标题:Image devices for pattern recognition
+节点331 ID:4255 标题:Interactive pattern analysis and classification utilizing prior knowledge
+节点332 ID:4289 标题:Team Decision Theory and Information Structures in Optimal Control Problems—Part II
+节点333 ID:4300 标题:Computational experience with a modification of an algorithm by Hammer and Rudeanu for 0-1 linear programming
+节点334 ID:4316 标题:Optimal combination of control and observation. PMM vol. 35, no. 4, 1971, pp. 609-618
+节点335 ID:4326 标题:PREDICTION AND ANALYSIS OF HUMAN PERFORMANCE IN A VTOL HOVER TASK.
+节点336 ID:4334 标题:On the Optimal Control of Stochastic Linear Systems
+节点337 ID:4335 标题:Edge-coding operators for pattern recognition
+节点338 ID:4347 标题:Estimation of Classification Error
+节点339 ID:4351 标题:On Identification of Redundancy and Symmetry of Switching Functions
+节点340 ID:4360 标题:The organization of extracted features for pattern recognition
+节点341 ID:4364 标题:Cybernetic functionals and fuzzy sets
+节点342 ID:4366 标题:An interactive-graphic subsystem for pattern analysis
+节点343 ID:4375 标题:An Extension of the Munkres Algorithm for the Assignment Problem to Rectangular Matrices
+节点344 ID:4378 标题:Pseudo optimal closed loop control of nonlinear systems via a hybrid technique
+节点345 ID:4392 标题:Optimal control using imbedding of the terminal conditions
+节点346 ID:4401 标题:On Effective Procedures for Speeding Up Algorithms
+节点347 ID:4405 标题:Function space derived algorithms for the optimal control of continuous time nonlinear stochastic systems
+节点348 ID:4413 标题:Statistical branch and bound algorithm
+节点349 ID:4424 标题:COMPLEX INFORMATION PROCESSING IN ONE CLASS OF TRACKING PROBLEMS.
+节点350 ID:4449 标题:Three dimensional object recognition in real time by multiplex spatial filtering
+节点351 ID:4457 标题:Admissible clustering procedures
+节点352 ID:4464 标题:3. Algorithms
+节点353 ID:4473 标题:Control of a Stochastic System
+节点354 ID:4487 标题:The identification and control of unknown linear discrete systems
+节点355 ID:4490 标题:An algorithm for linear optimal control systems with state-space constraints
+节点356 ID:4499 标题:Pattern recognition
+节点357 ID:4520 标题:A note on the potential function algorithm for pattern classification
+节点358 ID:4580 标题:Stability of a discrete closed-loop system which includes a kalman filter
+节点359 ID:4611 标题:A Context Algorithm for Pattern Recognition and Image Interpretation
+节点360 ID:4621 标题:Pattern Recognition Signal Processing for Mechanical Diagnostics Signature Analysis
+节点361 ID:4638 标题:TRAINING A RECOGNITION SYSTEM USING OBJECTS OF ONE CLASS.
+节点362 ID:4641 标题:ALGORITHMS FOR AN ADAPTED BASIS IN PATTERN RECOGNITION PROBLEMS.
+节点363 ID:4660 标题:OPTIMAL CONTROL OF ONE-DIMENSIONAL DISTRIBUTED PARAMETER STOCHASTIC PROCESSES.
+节点364 ID:4662 标题:OPTIMAL CONTROL OF CELL SCANNING SEQUENCE IN SEARCH FOR OBJECTS.
+节点365 ID:4677 标题:Efficient algorithm for multi- item scheduling
+节点366 ID:4687 标题:Structure and Parameter Adaptive Pattern Recognition with Supervised Learning: A New Formulation
+节点367 ID:4693 标题:Method of synthesis of a class of random search algorithms
+节点368 ID:4712 标题:On the convergence of approximating solutions for linear distributed parameter optimal control problems
+节点369 ID:4717 标题:METHODS FOR WEIGHTING FEATURES IN PATTERN RECOGNITION.
+节点370 ID:4733 标题:OPTIMAL CONTROL OF NONLINEAR STOCHASTIC SYSTEMS
+节点371 ID:4735 标题:An algorithm of preliminary signal processing in recognition systems that generalize according to similarity
+节点372 ID:4767 标题:CONTROL FOR MAXIMIZING THE MAXIMUM GAIN OF AN AUTOMATON IN A SWITCHING MEDIUM.
+节点373 ID:4806 标题:Optimal control of distributed systems. with derivative dependent cost functionals
+节点374 ID:4821 标题:ANALYTICAL METHOD OF CALCULATIONS FOR AN INDUSTRIAL SYSTEM OF AUTOMATIC CONTROL WITH A GIVEN STABILITY MARGIN.
+节点375 ID:4828 标题:Construction of a Complex-Valued Nonlinear Discriminant Function for Pattern Recognition
+节点376 ID:4835 标题:An Algorithm for the Blocks and Cutnodes of a Graph
+节点377 ID:4842 标题:Parallel-processing computer for pattern recognition
+节点378 ID:4856 标题:Geometric theory of time- optimal control
+节点379 ID:4870 标题:Shift-invariant transformation for pattern recognition
+节点380 ID:4871 标题:On the solutions of a stochastic control system
+节点381 ID:4875 标题:Online parameter estimation using matrix pseudoinverse
+节点382 ID:4885 标题:A new approach to pattern recognition
+节点383 ID:4907 标题:A Sequential Decision Model for Selecting Feature Subsets in Pattern Recognition
+节点384 ID:4911 标题:NONPARAMETRIC SELF-ORGANIZATION METHOD IN PATTERN RECOGNITION.
+节点385 ID:4949 标题:ERROR BOUNDS OF HIGH ORDER ACCURACY FOR THE STATE REGULATOR PROBLEM VIA PIECEWISE POLYNOMIAL APPROXIMATIONS
+节点386 ID:4960 标题:Automatic pattern recognition
+节点387 ID:4963 标题:A Computer Algorithm for Optimal Curve Fitting
+节点388 ID:4971 标题:A direct approach to the design of asymptotically optimal controllers
+节点389 ID:4982 标题:Control of a class of non-linear diffusions!
+节点390 ID:4994 标题:Linear optimal stochastic control using instantaneous output feedback
+节点391 ID:5000 标题:On an inverse optimal control problem
+节点392 ID:5003 标题:Analysis of the sufficient conditions for the separation of an optimal control problem into independent information- processing stages
+节点393 ID:5005 标题:Sub-optimal nonlinear controllers for relay and saturating control systems
+节点394 ID:5006 标题:An approach to adaptive control using real time identification
+节点395 ID:5010 标题:Contextual Word Recognition Using Binary Digrams
+节点396 ID:5011 标题:GENERAL ORDER MINKOWSKI METRIC PATTERN CLASSIFIER.
+节点397 ID:5014 标题:SEQUENTIAL STRUCTURE AND PARAMETER ADAPTIVE PATTERN RECOGNITION - 1. SUPERVISED LEARNING.
+节点398 ID:5015 标题:EXPERIMENTS WITH A HEURISTIC ON-LINE PICTURE PROCESSING LANGUAGE.
+节点399 ID:5020 标题:INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, 2ND, ADVANCE PAPERS OF THE CONFERENCE, 1971.
+节点400 ID:5023 标题:PREPROCESSING FOR PICTORIAL PATTERN RECOGNITION.
+节点401 ID:5024 标题:FIXED AND ADAPTIVE ALGORITHMS FOR PATTERN RECOGNITION: PROBLEMS IN THEORY AND APPLICATION.
+节点402 ID:5050 标题:Digital Technique for Optimal Control of Third-Order Systems
+节点403 ID:5086 标题:Training a pattern recognition machine with a statistical algorithm
+节点404 ID:5114 标题:SEMI-ADAPTIVE APPROACH TO PATTERN RECOGNITION.
+节点405 ID:5126 标题:An Optimal Stochastic Control Problem with Observation Cost
+节点406 ID:5129 标题:PATTERN RECOGNITION SCHEME USING RANDOM PULSE SEQUENCES
+节点407 ID:5134 标题:Variable length vector pattern recognition
+节点408 ID:5150 标题:Improved distance measure for pattern recognition
+节点409 ID:5182 标题:Supervised learning in nonGaussian pattern recognition
+节点410 ID:5195 标题:The Reconstruction of Binary Patterns from Their Projections
+节点411 ID:5211 标题:Supervised Learning Sequential Structure and Parameter Adaptive Pattern Recognition: Discrete Data Case
+节点412 ID:5229 标题:An algorithm for determining the shortest path on a network graph
+节点413 ID:5241 标题:AUTOMATIC READOUT OF GRAPHIC INFORMATION IN A COMPUTER-PLOTTER SYSTEM.
+节点414 ID:5245 标题:GENERAL ORDER MINKOWSKI METRIC PATTERN CLASSIFIER.
+节点415 ID:5248 标题:SEQUENTIAL STRUCTURE AND PARAMETER ADAPTIVE PATTERN RECOGNITION - 1. SUPERVISED LEARNING.
+节点416 ID:5251 标题:On the solution of linear equation/inequality systems
+节点417 ID:5255 标题:PREPROCESSING FOR PICTORIAL PATTERN RECOGNITION.
+节点418 ID:5257 标题:IMPROVED OPTIMUM CONTROL ALGORITHM FOR A CLASS OF WATER POLLUTION PROBLEMS.
+节点419 ID:5273 标题:FIXED AND ADAPTIVE ALGORITHMS FOR PATTERN RECOGNITION: PROBLEMS IN THEORY AND APPLICATION.
+节点420 ID:5279 标题:SEMI-ADAPTIVE APPROACH TO PATTERN RECOGNITION.
+节点421 ID:5283 标题:EXPERIMENTS WITH A HEURISTIC ON-LINE PICTURE PROCESSING LANGUAGE.
+节点422 ID:5288 标题:An algorithm generating the decision table of a deterministic bottom up parser for a subset of context free grammars
+节点423 ID:5296 标题:On the minimax feedback control of uncertain dynamic systems
+节点424 ID:5302 标题:Some dual problems in pattern recognition
+节点425 ID:5347 标题:Unbiased Estimates for On-Line System Identification
+节点426 ID:5353 标题:Techniques for Efficient Encoding of Features in Pattern Recognition
+节点427 ID:5355 标题:A Survey of Preprocessing and Feature Extraction Techniques for Radiographic Images
+节点428 ID:5366 标题:Redundancy in Feature Extraction
+节点429 ID:5409 标题:FINITE-DIMENSIONAL APPROXIMATIONS OF STATE-CONSTRAINED CONTINUOUS OPTIMAL CONTROL PROBLEMS.
+节点430 ID:5439 标题:Summary and comparison of gradient-restoration algorithms for optimal control problems
+节点431 ID:5441 标题:ON THE APPLICATION OF DIVERGENCE TO FEATURE SELECTION IN PATTERN RECOGNITION.
+节点432 ID:5465 标题:A manifold imbedding algorithm for optimization problems
+节点433 ID:5476 标题:SUBOPTIMAL AND NEAR-OPTIMAL CONTROL OF LOAD-FREQUENCY-CONTROL SYSTEM.
+节点434 ID:5480 标题:Optimal control of linear stochastic systems described by functional differential equations
+节点435 ID:5483 标题:Generalization of Synthesis to Finite Settling Time - 1, 2. | VERALLGEMEINERUNG DES ENTWURFS AUF ENDLICHE EINSTELLZEIT - 1, 2.
+节点436 ID:5489 标题:Compatible Controllers for Time-varying Linear Plants
+节点437 ID:5500 标题:PRACTICAL STATE ASSIGNMENT ALGORITHM OF SEQUENTIAL MACHINES - AN APPROACH USING SQUARE SUBGRAPHS.
+节点438 ID:5502 标题:COMPUTATIONAL ALGORITHM FOR INNERS.
+节点439 ID:5533 标题:A computational successive improvement scheme for adaptive optimal control processes
+节点440 ID:5538 标题:An algorithm for finding the absolute extremum of a function
+节点441 ID:5575 标题:OPTIMAL CONTROL APPROACH TO DESIGNING CONSTANT GAIN FILTERS.
+节点442 ID:5588 标题:PROCESS INTERRUPT ALGORITHM.
+节点443 ID:5611 标题:SEQUENTIAL GRADIENT-RESTORATION ALGORITHM FOR OPTIMAL CONTROL PROBLEMS WITH BOUNDED STATE VARIABLES - 1, 2.
+节点444 ID:5621 标题:Approximate synthesis method for optimal control of a system subjected to random perturbations. PMM vol. 36, n≗5, 1972, pp. 829-839
+节点445 ID:5627 标题:Sorting by Natural Selection
+节点446 ID:5629 标题:A New Data Base for Syntax-Directed Pattern Analysis and Recognition
+节点447 ID:5640 标题:Compensation Method of Identification of an Industrial Flotation Process with the Application of Orthogonal Filters. | KOMPENSATSIONNYI METOD IDENTIFIKATSII PROMYSHLENNOGO FLOTOPROTSESSA S UPRIMENENIEM OROTGONAL'NYKH FIL'TROV.
+节点448 ID:5644 标题:Determining Initial Values of Adjoint Systems in Optimally Fast Control of Linear Plants. | [NAKHOZHDENIE NACHAL'NYKH ZNACHENII VSPOMOGATEL'NOI SISTEMY, PRI ZADACHE OB OPTIMAL'NOM PO BYSTRODEISTVIYU UPRAVLENII LINEINYMI OB'EKTAMI.]
+节点449 ID:5674 标题:Algorithm of a Fast, Two-Bit Division of Numbers Represented in the Form of the Complement of Twos. | [ALGORYTM PRZYSPIESZONEGO, DWUBITOWEGO DZIELENIA LICZB PRZEDSTAWIONYCH W ZPAISIE UZUPELNIEN DO DWOCH.]
+节点450 ID:5684 标题:A new type of feature extraction of patterns using coherent optical system
+节点451 ID:5699 标题:Design of a Random-Pulse Computer for Classifying Binary Patterns
+节点452 ID:5700 标题:Dual Control Based on Approximate A Posteriori Density Functions
+节点453 ID:5717 标题:The optimal control of processes containing pure time delays-II Transfer function models
+节点454 ID:5719 标题:Bounds on algorithms for string generation
+节点455 ID:5725 标题:A Fast Fourier Transform Algorithm for Symmetric Real-Valued Series
+节点456 ID:5734 标题:Selection of Features in Pattern Recognition. | AUSWAHL VON MERKMALEN BEI DER MUSTERERKENNUNG.
+节点457 ID:5752 标题:Approximation of the Optimal Control Function in Nonlinear Control Loops by Means of Sampled-Data Theory. | [DIE APPROXIMATION DER OPTIMALEN STEUERFUNKTION BEI NICHTLINEAREN REGELKREISEN MIT HILFE DER ABTASTTHEORIE.]
+节点458 ID:5789 标题:On Sampled-Data Optimization in Distributed Parameter Systems
+节点459 ID:5836 标题:On Determining Optimum Simple Golay Marking Transformations for Binary Image Processing
+节点460 ID:5839 标题:Distribution-Free Pattern Verification Using Statistically Equivalent Blocks
+节点461 ID:5851 标题:A visual pattern recognizing computer program based on neurophysiological data
+节点462 ID:5855 标题:Limitations in pattern recognition and problem solving
+节点463 ID:5873 标题:An efficient algorithm for minimizing barrier and penalty functions
+节点464 ID:5881 标题:COMPUTER GENERATION OF SPECIFICALLY CROSS-CORRELATED APERIODIC BINARY SERIES.
+节点465 ID:5899 标题:A ROM random-pulse computer for classifying binary patterns
+节点466 ID:5902 标题:A Class of Algorithms for Fast Digital Image Registration
+节点467 ID:5916 标题:Time- optimal control of basis weight
+节点468 ID:5950 标题:The Application of Filtered Transforms to the General Classification Problem
+节点469 ID:5992 标题:MODIFIED C. G. ALGORITHM NOT REQUIRING THE ADJOINT VECTOR FOR OPTIMAL CONTROL COMPUTATION.
+节点470 ID:6015 标题:On the application of formal language and automata theory to pattern recognition
+节点471 ID:6034 标题:An Algorithm for Least Squares Estimation of Nonlinear Parameters When Some of the Parameters Are Linear
+节点472 ID:6081 标题:A New Search Algorithm for Finding the Simple Cycles of a Finite Directed Graph
+节点473 ID:6082 标题:Use of the Hough Transformation to Detect Lines and Curves in Pictures
+节点474 ID:6084 标题:Branch- and- bound algorithm for seeking the p- median
+节点475 ID:6094 标题:Establishing lower bounds on algorithms-A survey
+节点476 ID:6104 标题:SCHEDULING FOR MACHINES OF EQUAL PERFORMANCE.
+节点477 ID:6115 标题:A Nonlinear Feature Extraction Algorithm Using Distance Transformation
+节点478 ID:6124 标题:CONTROL DEVICE OF TABULAR TYPE.
+节点479 ID:6135 标题:Fast allocation algorithms
+节点480 ID:6173 标题:Dynamic programming as applied to feature subset selection in a pattern recognition system
+节点481 ID:6184 标题:An Optimal Automatic Car Following System
+节点482 ID:6204 标题:ITERATIVE ESTIMATION FOR STATES AND PARAMETERS OF NONLINEAR SYSTEM.
+节点483 ID:6220 标题:IEEE CONFERENCE ON DECISION AND CONTROL, AND SYMPOSIUM ON ADAPTIVE PROCESSES, 11TH, PROCEEDINGS, 1972.
+节点484 ID:6224 标题:EFFICIENT BRANCH AND BOUND ALGORITHM FOR THE WAREHOUSE LOCATION PROBLEM.
+节点485 ID:6235 标题:Parallel Tangents and Steepest Descent Optimization Algorithm—A Computer Implementation with Application to Linear, Partially Linear Models and Qualitative Datat
+节点486 ID:6243 标题:DECOMPOSITION ALGORITHM FOR ARBORESCENCE INVENTORY SYSTEMS.
+节点487 ID:6259 标题:Optimal stochastic control for discrete-time linear system with interrupted observations
+节点488 ID:6288 标题:A Modified Training Procedure for Linear Threshold Devices
+节点489 ID:6291 标题:On the Extraction of Pattern Features from Imperfectly Identified Samples
+节点490 ID:6299 标题:Near-optimal control of parameter-dependent linear plants
+节点491 ID:6326 标题:Closed loop sub-optimal control of linear processes without mode switching
+节点492 ID:6356 标题:Machine recognition of patterns in particle physics
+节点493 ID:6360 标题:Applications of sequential methods in pattern recognition to diagnosis
+节点494 ID:6375 标题:IEEE REGION 3 CONVENTION, SOUTHEASTCON 1972, PROCEEDINGS OF THE 10TH ANNUAL: SCANNING THE SPECTRUM.
+节点495 ID:6386 标题:One-Pass Complexity of Digital Picture Properties
+节点496 ID:6401 标题:DECISION DESIGN AND THE COMPUTER.
+节点497 ID:6405 标题:An Experimental Laboratory for Pattern Recognition and Signal Processing
+节点498 ID:6444 标题:Suboptimal feedback control for nonlinear systems
+节点499 ID:6453 标题:Algorithm for the reduction of sensitivity to parameter variations in the linear regulator
+节点500 ID:6461 标题:A direct second-variational method for unconstrained optimal control problems
+节点501 ID:6467 标题:Recognition of printed chinese characters by automatic pattern analysis
+节点502 ID:6472 标题:Pattern Recognition.<sup>1</sup> A Powerful Approach to Interpreting Chemical Data
+节点503 ID:6473 标题:Pattern recognition combats data explosion
+节点504 ID:6475 标题:MAXIMIZATION OF AVERAGE SOJOURN TIME OF A STOCHASTIC PROCESS IN AN ASSIGNED REGION.
+节点505 ID:6485 标题:A decomposition algorithm for integer programming problems with many columns
+节点506 ID:6491 标题:On feature extraction in multi-class pattern recognition
+节点507 ID:6495 标题:Unsupervised learning in nongaussian pattern recognition
+节点508 ID:6504 标题:Computer description and recognition of printed Chinese characters
+节点509 ID:6550 标题:On algorithms preserving neighborhood, to file and retrieve information in a memory
+节点510 ID:6584 标题:SOME PROPERTIES OF THE SEQUENTIAL GRADIENT-RESTORATION ALGORITHM AND THE MODIFIED QUASILINEARIZATION ALGORITHM FOR OPTIMAL CONTROL PROBLEMS WITH BOUNDED STATE.
+节点511 ID:6590 标题:The recognition index: A pattern recognition technique for noisy signals
+节点512 ID:6598 标题:The K-Nearest Neighbor Classification Rule (Pattern Recognition) Applied to Nuclear Magnetic Resonance Spectral Interpretation
+节点513 ID:6605 标题:Property encoding: Application in binary picture encoding and boundary following
+节点514 ID:6606 标题:An analysis of the stable marriage assignment algorithm
+节点515 ID:6611 标题:ALGORITHMS FOR PATTERN RECOGNITION LEARNING UNDER NONSTATIONARY CONDITIONS.
+节点516 ID:6628 标题:Correlation Matrix Memories
+节点517 ID:6632 标题:Towards automated medical decisions
+节点518 ID:6636 标题:APPLICATION OF OPTIMAL CONTROL THEORY TO SUBMARINE CONTROL SYSTEM.
+节点519 ID:6658 标题:Basic concepts and methods in mathematical pattern recognition
+节点520 ID:6666 标题:Implementation of 2-dimensional walsh transforms for pattern recognition
+节点521 ID:6671 标题:BASIC THEORY ON THE STRUCTURAL RECOGNITION OF FIGURES.
+节点522 ID:6677 标题:Perspective Drawing of Surfaces With Hidden Line Elimination
+节点523 ID:6682 标题:EQUIVALENCE OF OPTIMAL FIXED-ORDER CONTROLLERS.
+节点524 ID:6686 标题:A Nash algorithm for a class of non-zero sum differential games
+节点525 ID:6688 标题:Special Topics
+节点526 ID:6709 标题:Computation of quantized controls using differential dynamic programming
+节点527 ID:6732 标题:Iterative least squares development of discriminant functions for spectroscopic data analysis by pattern recognition
+节点528 ID:6769 标题:CONTROL OF COMPLEX PLANTS WITH PREDICTION OPTIMIZATION BASED ON SELF-ORGANIZATION.
+节点529 ID:6797 标题:METHOD OF SYNTHESIZING THE STRUCTURE OF A MULTIFUNCTIONAL LOGIC ELEMENT.
+节点530 ID:6816 标题:Discrete Optimal Terminal Control. with Application to Missile Guidance
+节点531 ID:6823 标题:Computation of Optimal Controls Using a Piecewise Polynomial Parameterization
+节点532 ID:6824 标题:STOCHASTIC CONTROL WITH OBSERVATION COSTS.
+节点533 ID:6835 标题:A General Dynamic Programming Solution of Discrete-Time Linear Optimal Control Problems
+节点534 ID:6838 标题:ON CONTROLLABLE PERIODIC SEMI-MARKOV PROCESSES.
+节点535 ID:6850 标题:Sequential Non-Gaussian Pattern Recognition with Supervised Learning
+节点536 ID:6855 标题:Automatic classification of mass spectra by means of digital learning nets
+节点537 ID:6858 标题:The Computational Solution of Optimal Control Problems with Time Lag
+节点538 ID:6869 标题:Character recognition by complex filtering in reading machines
+节点539 ID:6895 标题:STRUCTURAL APPROACH TO PATTERN LEARNING AND THE ACQUISITION OF CLASSIFICATORY POWER.
+节点540 ID:6910 标题:Optimal Control of Linear Systems with Continuous and Discrete Observations. | OPTIMAL'NOE UPRAVLENIE LINEINYMI SISTEMAMI PRI NEPRERYVNYKH I DISKRETNYKH NABLYUDENIYAKH.
+节点541 ID:6935 标题:USING THE MINIMUM SPANNING TREE TO RECOGNIZE DOTTED AND DASHED CURVES.
+节点542 ID:6941 标题:NEW APPROACH TO THE ″INVERSE PROBLEM OF OPTIMAL CONTROL THEORY″ BY USE OF A GENERALIZED PERFORMANCE INDEX (GPI).
+节点543 ID:6953 标题:PROBLEMS IN AUTOMATIC PATTERN RECOGNITION.
+节点544 ID:6969 标题:MINIMIZATION ALGORITHM FOR THE DESIGN OF LINEAR MULTIVARIABLE SYSTEMS.
+节点545 ID:6973 标题:Synthesis of Quasi-Optimal Control of a System Consisting of an integrating and Two Lag Circuits. | SINTEZ KVAZIOPTIMAL'NOGO UPRAVLENIYA SISTEMOI, SOSTOYASHCHEI IZ INTEGRIRUYUSHCHEGO I DVUKH INERTSIONNYKH ZVEN'EV.
+节点546 ID:7011 标题:Optimal Control of Complex Chemical Plants by Means of Hierarchial Automatic System. | OPTIMALE STEUERUNG KOMPLEXER PRODUKTIONSANLAGEN DER CHEMIEINDUSTRIE DURCH HIERARCHISCHE AUTOMATISIERUNGSSYSTEME.
+节点547 ID:7028 标题:OPTIMAL CONTROL OF PARTIALLY OBSERVABLE MARKOV PROCESSES OVER A FINITE HORIZON.
+节点548 ID:7043 标题:Optimal SAM Defense System: An Application of Optimal Control Concept to Operations Research
+节点549 ID:7053 标题:The Optimal Linear Regulator with Constrainéd Sampling Times
+节点550 ID:7122 标题:Interpretation of infrared spectra using pattern recognition techniques
+节点551 ID:7160 标题:On the Computational Aspects of Two Recent Smoothing Algorithms
+节点552 ID:7169 标题:MODIFIED DYNAMIC PROGRAMMING ALGORITHM FOR A CERTAIN CLASS OF EXTREMAL PROBLEMS.
+节点553 ID:7172 标题:Optimal control of the artificial-kidney-patient system
+节点554 ID:7214 标题:Parsing algorithms with backtrack
+节点555 ID:7245 标题:Clustering Using a Similarity Measure Based on Shared Near Neighbors
+节点556 ID:7246 标题:Application of Pattern Recognition to Steady-State Security Evaluation in a Power System
+节点557 ID:7251 标题:CONCAVE MINIMIZATION OVER A CONVEX POLYHEDRON.
+节点558 ID:7270 标题:IDENTIFICATION OF AN OBJECT IN THE CASE OF OPTIMAL CONTROL WITH INCOMPLETE INFORMATION.
+节点559 ID:7294 标题:OPTIMAL CONTROL OF LINEAR MULTIVARIABLE SYSTEMS BASED ON DISCRETE OUTPUT FEEDBACK.
+节点560 ID:7303 标题:NONPARAMETRIC FEATURE ANALYSIS METHODS FOR SAMPLED DIFFRACTION PATTERNS.
+节点561 ID:7312 标题:ALGORITHM DYNAMICS.
+节点562 ID:7346 标题:DIGITAL ADAPTIVE CONTROLLERS USING SECOND ORDER MODELS WITH TRANSPORT LAG.
+节点563 ID:7352 标题:IDENTIFICATION OF DISTRIBUTED PARAMETER SYSTEMS USING THE EPSILON METHOD: A NEW ALGORITHM.
+节点564 ID:7353 标题:OPTIMIZING ONE CLASS OF LARGE-SCALE SYSTEMS.
+节点565 ID:7400 标题:DECENTRALIZED CONTROL OF DISCRETE-TIME STOCHASTIC SYSTEMS.
+节点566 ID:7423 标题:IDENTIFIABILITY OF THE OPTIMAL CONTROL MODEL FOR THE HUMAN OPERATOR.
+节点567 ID:7424 标题:CONVERGENCE PROPERTIES OF OPTIMAL CONTROL ALGORITHMS.
+节点568 ID:7425 标题:CLOSED LOOP CONTROL DESIGN FOR NONLINEAR, NONQUADRATIC SYSTEMS.
+节点569 ID:7432 标题:CALCULATION OF DERIVATIVES IN EXTREMUM PROBLEMS.
+节点570 ID:7449 标题:MULTILAYERED STOCHASTIC LANGUAGES FOR PATTERN RECOGNITION.
+节点571 ID:7470 标题:DESIGN OF OPTIMAL LOW-SENSITIVITY FEEDBACK CONTROL SYSTEMS.
+节点572 ID:7512 标题:ALGORITHM TO ESTIMATE SUB-OPTIMAL PRESENT VALUES FOR UNICHAIN MARKOV PROCESSES WITH ALTERNATIVES REWARD STRUCTURES.
+节点573 ID:7513 标题:ON DETERMINING THE SUBMANIFOLDS OF STATE SPACE WHERE THE OPTIMAL VALUE SURFACE HAS AN INFINITE DERIVATIVE.
+节点574 ID:7522 标题:DESIGN AND OPERATION OF AM IDENTIFICATION PACKAGE FOR A SMALL DIGITAL COMPUTER.
+节点575 ID:7527 标题:Pattern recognition model of discrete picture information by visual perception (Japanese)
+节点576 ID:7536 标题:The use of model following methods to generate suboptimal feedback control†
+节点577 ID:7542 标题:APPLICATION OF A TIME-OPTIMAL CONTROL ALGORITHM TO THE DESIGN OF APPROXIMATELY TIME-OPTIMAL CONTROL SYSTEMS.
+节点578 ID:7545 标题:NEW FEATURE SELECTION PROCEDURE FOR PATTERN RECOGNITION BASED ON SUPERVISED LEARNING.
+节点579 ID:7552 标题:Pattern recognition as a statistical method for analyzing the confidence level in the identification of objects
+节点580 ID:7561 标题:Some Aspects of Visual Pattern Recognition
+节点581 ID:7609 标题:Organization of memory
+节点582 ID:7625 标题:Optimal discrete stochastic control theory for process application
+节点583 ID:7668 标题:On a sub-optimal control scheme of linear stochastic systems with inaccurate models†
+节点584 ID:7671 标题:A comparative study of electronic and neural networks involved in pattern recognition
+节点585 ID:7672 标题:Space distortion and decomposition theory - A new approach to pattern recognition by vision
+节点586 ID:7696 标题:FEATURE SELECTION FOR COMPACT PATTERN DESCRIPTION.
+节点587 ID:7697 标题:DATA STRUCTURES AND PATTERN RECOGNITION.
+节点588 ID:7721 标题:Nonsupervised classification using the principal component
+节点589 ID:7740 标题:STRONG VARIATION ALGORITHMS FOR OPTIMAL CONTROL PROBLEMS WITH CONTROL AND TERMINAL INEQUALITY CONSTRAINTS.
+节点590 ID:7745 标题:OPTIMAL INSTANTANEOUS OUTPUT-FEEDBACK CONTROLLERS FOR LINEAR STOCHASTIC SYSTEMS.
+节点591 ID:7747 标题:An algorithm for pattern classification using the concept of characteristic vector of the output of threshold element
+节点592 ID:7768 标题:ON RECONSTRUCTION OF AMBIGUOUS PATTERNS.
+节点593 ID:7772 标题:APPLICATION OF A NONMETRIC MULTIDIMENSIONAL SCALING METHOD FOR FEATURE SELECTION IN PATTERN RECOGNITION SYSTEMS.
+节点594 ID:7842 标题:PATTERN RECOGNITION APPROACH TO THE CLASSIFICATION OF NONLINEAR SYSTEMS FROM INPUT-OUTPUT DATA.
+节点595 ID:7854 标题:ONE RANDOM-SEARCH ALGORITHM FOR OPTIMIZING SYSTEMS WITH CONSTRAINTS.
+节点596 ID:7859 标题:RESTRICTED-GOAL SYNTAX-AIDED PATTERN-RECOGNITION EXPERIMENT.
+节点597 ID:7878 标题:INTERNATIONAL JOINT CONFERENCE ON PATTERN RECOGNITION, 1ST, PROCEEDINGS, 1973.
+节点598 ID:7883 标题:ALGORITHM FOR FINDING THE MINIMAL LENGTH HAMILTONIAN PATH IN A GRAPH.
+节点599 ID:7889 标题:Optimal control of stationary Markov processes
+节点600 ID:7891 标题:CLOUD TYPE PATTERN RECOGNITION USING ENVIRONMENTAL SATELLITE DATA.
+节点601 ID:7904 标题:APPLICATION OF UNITARY TRANSFORMS TO VISUAL PATTERN RECOGNITION.
+节点602 ID:7928 标题:ALGORITHM FOR DETERMINING RELIABILITY ESTIMATES FOR DISCRETE CONTROL SYSTEMS.
+节点603 ID:7938 标题:MINIMAL REALIZATION ALGORITHM FOR MATRIX SEQUENCES.
+节点604 ID:7947 标题:PATTERN RECOGNITION PROGRAMS WITH LEVEL ADAPTATION.
+节点605 ID:7954 标题:SUBSPACE METHOD IN PATTERN RECOGNITION.
+节点606 ID:7959 标题:SEGMENTED ALGORITHM FOR SOLVING A CLASS OF STATE CONSTRAINED DISCRETE OPTIMAL CONTROL PROBLEMS.
+节点607 ID:7999 标题:CONSTRAINING HYPERPLANE TECHNIQUE FOR STATE VARIABLE CONSTRAINED OPTIMAL CONTROL TECHNIQUES.
+节点608 ID:8015 标题:A cellular logic array for image processing
+节点609 ID:8038 标题:An Algorithm for the Optimal Solution of Linear Inequalities and Its Application to Pattern Recognition
+节点610 ID:8080 标题:A Square-Root Data Array Solution of the Continuous-Discrete Filtering Problem
+节点611 ID:8106 标题:Admissible clustering procedures
+节点612 ID:8161 标题:BIOLOGICAL APPLICATIONS OF PATTERN RECOGNITION.
+节点613 ID:8165 标题:INTERACTIVE PATTERN RECOGNITION: A DESIGNER'S TOOL.
+节点614 ID:8188 标题:LINEAR ALGORITHM FOR COMPUTING THE OPTIMUM UNIVERSITY TIMETABLE.
+节点615 ID:8196 标题:Dynamic Programming as Applied to Feature Subset Selection in a Pattern Recognition System
+节点616 ID:8204 标题:Specific optimal control of the linear regulator using a minimal order observer
+节点617 ID:8228 标题:Fast algorithms for the elimination of common subexpressions
+节点618 ID:8232 标题:MODIFIED QUASILINEARIZATION ALGORITHM FOR OPTIMAL CONTROL PROBLEMS WITH NONDIFFERENTIAL CONSTRAINTS - 1. THEORY.
+节点619 ID:8239 标题:Testing flow graph reductibility
+节点620 ID:8300 标题:On the design of optimal output feedback control systems†
+节点621 ID:8329 标题:SEQUENTIAL GRADIENT-RESTORATION ALGORITHM FOR OPTIMAL CONTROL PROBLEMS WITH NONDIFFERENTIAL CONSTRAINTS - 1, 2.
+节点622 ID:8339 标题:SIMPLE ALGORITHM FOR POLE ASSIGNMENT IN A MULTIPLE INPUT LINEAR TIME INVARIANT DYNAMIC SYSTEM.
+节点623 ID:8362 标题:Multivariable PID estimation and control in systems with biased disturbances
+节点624 ID:8367 标题:GENERAL ALGORITHM FOR SERVICE PROCESSES LEADING TO ERLANG'S LOSS FORMULA.
+节点625 ID:8382 标题:Discrete optimal control with multiple constraints I Constraint separation and transformation technique
+节点626 ID:8411 标题:SUB-OPTIMAL LINEAR SYSTEM REDUCTION ALGORITHM.
+节点627 ID:8429 标题:ON INVERSE OPTIMAL CONTROL PROBLEM AND SOCIO-ECONOMIC CYBERNETICS.
+节点628 ID:8466 标题:PERFORMANCE OF LQG CONTROL SYSTEMS USING OPTIMAL k-STEP-AHEAD CONTROL LAWS.
+节点629 ID:8481 标题:INTERCHANGEABILITY OF THE ROUTH AND JURY TABULAR ALGORITHMS FOR LINEAR SYSTEM ZERO LOCATION.
+节点630 ID:8515 标题:REAL-TIME NUCLEAR POWER PLANT PARAMETER IDENTIFICATION WITH A PROCESS COMPUTER.
+节点631 ID:8538 标题:A Computational Algorithm for the Optimal Control of Continuous-Time Stochastic Systems
+节点632 ID:8561 标题:A model for pattern recognition by cell networks
+节点633 ID:8564 标题:ON AN ALGORITHM OF DYNAMIC PROGRAMMING.
+节点634 ID:8585 标题:APPROXIMATION OF DISCRIMINANT FUNCTIONS IN A NEIGHBORHOOD OF ZERO VALUES.
+节点635 ID:8596 标题:The Viterbi Algorithm
+节点636 ID:8628 标题:A spatial filtering technique for improved holographic character recognition
+节点637 ID:8632 标题:Geophysical interpretation - A pattern recognition system
+节点638 ID:8640 标题:METHOD FOR SHIFTING FROM LOGICAL DIAGRAMS OF ALGORITHMS TO AN ASYNCHRONOUS LOGICAL GRID.
+节点639 ID:8652 标题:CONTROL WITH PREDICTION OPTIMIZATION IN SIMPLE CONTINUOUS PLANT MODELS.
+节点640 ID:8657 标题:Linear Convex Stochastic Optimal Control with Applications in Production Planning
+节点641 ID:8680 标题:Sufficiently Informative Functions and the Minimax Feedback Control of Uncertain Dynamic Systems
+节点642 ID:8684 标题:CONSTRUCTION OF AN ALGORITHM FOR STABILIZATION OF A DEFORMING SPACECRAFT USING A DIGITAL COMPUTER.
+节点643 ID:8690 标题:A Picture-Coding Algorithm for the Merli Scan
+节点644 ID:8717 标题:Output Feedback Gains for a Linear-Discrete Stochastic Control Problem
+节点645 ID:8760 标题:Stochastic algorithms in system identification
+节点646 ID:8795 标题:COLUMN GENERATION ALGORITHM FOR OPTIMAL TRAFFIC ASSIGNMENT.
+节点647 ID:8810 标题:Algorithm dynamics
+节点648 ID:8813 标题:PATTERN RECOGNITION PROBLEM IN APPLIED GEOCHEMISTRY.
+节点649 ID:8827 标题:A high-speed algorithm for computing conditional probabilities of substrings of sequentially observed data
+节点650 ID:8841 标题:ALGORITHMS FOR OPTIMIZATION OF COVERINGS.
+节点651 ID:8849 标题:DEVELOPMENT OF NEW PATTERN-RECOGNITION METHODS.
+节点652 ID:8860 标题:Linear stochastic optimal control under information rate constraints
+节点653 ID:8874 标题:A Minimization Algorithm for the Design of Linear Multivariable Systems
+节点654 ID:8892 标题:OPTIMAL CONTROL FOR A CERTAIN CLASS OF DISTRIBUTED PARAMETER SYSTEMS.
+节点655 ID:8911 标题:COMPUTER ALGORITHM FOR ROUTING OVERSIZED TRUCKS.
+节点656 ID:8915 标题:TECHNIQUE FOR THE SOLUTION OF MASSIVE SET COVERING PROBLEMS, WITH APPLICATION TO AIRLINE CREW SCHEDULING.
+节点657 ID:8930 标题:Near-optimal control of high-order systems using low-order models
+节点658 ID:8955 标题:FULLY AUTOMATED PATTERN RECOGNITION SYSTEM.
+节点659 ID:8995 标题:MINIMIZATION OF SEQUENTIAL MACHINES WITH INPUTS RESTRICTED TO AN ARBITRARY REGULAR SET.
+节点660 ID:9001 标题:Computerized Pattern Recognition Applications to Chemical Analysis. Development of Interactive Feature Selection Methods for the K-Nearest Neighbor Technique
+节点661 ID:9009 标题:Comparison of six on-line identification algorithms
+节点662 ID:9016 标题:1973 student paper award. An alogorithm for generating structural surrogates of english text
+节点663 ID:9021 标题:ON-LINE MEASUREMENT OF PAGING BEHAVIOR BY THE MULTIVALUED MIN ALGORITHM.
+节点664 ID:9068 标题:Algorithm for detection of discontinuities in data sets
+节点665 ID:9100 标题:Handprint recognition on the GRAFIX I: A commercial application of heuristic programming
+节点666 ID:9101 标题:OPTIMAL STOCHASTIC CONTROL WITH PERTURBING OBSERVATIONS.
+节点667 ID:9224 标题:MINIMIZATION OF BOOLEAN FUNCTIONS WITH ″DON'T CARES″ SUBJECT TO CONSTRAINTS.
+节点668 ID:9235 标题:Review of Pattern Recognition in Medical Diagnosis and Consulting Relative to a New System Model
+节点669 ID:9270 标题:Time Optimal Multivariable Control of LInear Sampled Data Systems with Bounded Correcting Variables. | [ZEITOPTIMALE MEHRFACHREGELUNG LINEARER ABTASTSYSTEME MIT BESCHRAENKTEN STELLGROESSEN.]
+节点670 ID:9275 标题:SUBOPTIMAL CONTROL OF THE CONTINUOUS-TIME LINEAR REGULATOR WITH UNKNOWN GAIN DYNAMICS.
+节点671 ID:9290 标题:OPTIMAL ALGORITHMS IN EVALUATING ARITHMETIC OR LOGICAL EXPRESSIONS IN PARALLEL.
+节点672 ID:9309 标题:APL ALGORITHM TO SOLVE SPARSE SYSTEMS OF EQUATIONS.
+节点673 ID:9310 标题:OPTIMAL CONTROL FOR LINEAR SYSTEMS WITH BOUNDED CONTROL AND STATE VECTOR.
+节点674 ID:9314 标题:DIRECT COMPUTATION OF CANONICAL FORMS FOR LINEAR SYSTEMS BY ELEMENTARY MATRIX OPERATIONS.
+节点675 ID:9322 标题:ALGORITHM FOR LARGE SET PARTITIONING PROBLEMS.
+节点676 ID:9327 标题:A Biological Approach to Pattern Recognition
+节点677 ID:9348 标题:HOLOGRAPHIC INSTALLATION FOR ANALOG PATTERN RECOGNITION.
+节点678 ID:9356 标题:On the Approximation of Linear Control Systems with Time Lag. | OB APPROKSIMATSII LINEINYKH UPRAVLYAEMYKH SISTEM S POSLEDEISTVIEM.
+节点679 ID:9368 标题:ON-LINE CONTROL OF THE CUTTING STATE BY THE PATTERN RECOGNITION TECHNIQUE.
+节点680 ID:9373 标题:SEQUENTIAL CONJUGATE GRADIENT-RESTORATION ALGORITHM FOR OPTIMAL CONTROL PROBLEMS - 1. THEORY.
+节点681 ID:9389 标题:DEVELOPMENT OF FAST ALGORITHMS VIA INNOVATIONS DECOMPOSITIONS.
+节点682 ID:9416 标题:A direct search for time-optimal control in stochastic systems †
+节点683 ID:9443 标题:TIME-SHARED ILP ALGORITHM FOR STRICTLY LIMITED RESOURCE ALLOCATION PROBLEMS.
+节点684 ID:9469 标题:Optimal Control of Stochastic and Adaptive Processes. | COMMANDE OPTIMALE DE PROCEDES STOCHASTIQUES ET ADAPTATIFS.
+节点685 ID:9570 标题:Information Content of Mass Spectra as Determined by Pattern Recognition Methods
+节点686 ID:9578 标题:ALGORITHM FOR PLACING INTERCONNECTED OBJECTS IN A GIVEN CONFIGURATION.
+节点687 ID:9590 标题:CASCADE REALIZATION OF LOGICAL FUNCTIONS ON THRESHOLD ELEMENTS.
+节点688 ID:9602 标题:Numerical classification of geologic patterns characterized by binary variables
+节点689 ID:9605 标题:A New Algorithm for Computing Correlations
+节点690 ID:9613 标题:A general result in stochastic optimal control of nonlinear discrete-time systems with quadratic performance criteria
+节点691 ID:9647 标题:COMPUTER RECOGNITION OF DIPLOG PATTERNS. A TOOL FOR STRATIGRAPHIC ANALYSIS.
+节点692 ID:9654 标题:OPTIMAL CONTROL OF LINEAR SYSTEMS WITH INCOMPLETE MEASUREMENTS USING AN N<sup>th</sup> ORDER OBSERVER.
+节点693 ID:9672 标题:Optimal control of linear multivariable systems with quadratic performance index, and the inverse optimal control problem
+节点694 ID:9676 标题:APPLICATION OF GEOMETRIC PROGRAMMING TO THE POWER SYSTEM ECONOMIC DISPATCH OPTIMIZATION.
+节点695 ID:9693 标题:HYBRID TEST OF AN OPTIMAL DECOUPLING CONTROL ALGORITHM.
+节点696 ID:9703 标题:APPLICATION OF PATTERN RECOGNITION TO FLIGHT TEST DATA ANALYSIS.
+节点697 ID:9717 标题:ALGORITHM FOR COMPUTER GUIDANCE OF A MANIPULATOR IN BETWEEN OBSTACLES.
+节点698 ID:9739 标题:Fixed-Memory Recursive Filters
+节点699 ID:9746 标题:NEW ALGORITHM FOR THE INVERSION OF RATIONAL MATRICES.
+节点700 ID:9759 标题:TRANSFORMATIONS AND INFERENCE OF TREE GRAMMARS FOR SYNTACTIC PATTERN RECOGNITION.
+节点701 ID:9768 标题:ACCELERATED FRANK - WOLFE ALGORITHMS.
+节点702 ID:9781 标题:ALGORITHM FOR THE COMPUTATION OF OPTIMUM-LAG SPIKING FILTERS.
+节点703 ID:9782 标题:DIGITAL COMPUTER SYNTHESIS OF OPTIMAL CONTROL ALGORITHMS FOR MULTIVARIABLE PLANTS.
+节点704 ID:9809 标题:EFFICIENT ALGORITHMIC PROCEDURE FOR OBTAINING A MINIMUM l<sub> </sub>infinity -NORM SOLUTION TO A SYSTEM OF CONSISTENT LINEAR EQUATIONS.
+节点705 ID:9821 标题:SUBOPTIMAL CONTROL OF LINEAR SYSTEMS WITH INACCESSIBLE STATES VIA REDUCED ORDER MODELS.
+节点706 ID:9860 标题:ALGORITHM FOR CONTROL OF GLIDING DESCENT OF A SPACECRAFT FROM EARTH ORBIT.
+节点707 ID:9976 标题:Sensitivity of the Performance Index to Shortening the Scope of Planning in a Linear-Quadratic Problem. | WRAZLIWOSC WSKAZNIKA JAKOSCI NA SKROCENIE HORYZONTU PLANOWANIA W PROBLEMIE LINIOWO-KWADRATOWYM.
+节点708 ID:9979 标题:PATTERN RECOGNITION FOR CREDIT GRANTING.
